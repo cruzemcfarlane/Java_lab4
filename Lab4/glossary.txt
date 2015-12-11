@@ -1,0 +1,16 @@
+vitamins
+iron
+callaloo
+potatoes
+address
+encapsulation
+inheritance
+polymorphism
+abstraction
+overloading
+parameters
+motor
+jaguar
+ford
+mustang
+vehicle
